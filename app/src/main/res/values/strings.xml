@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KeeMaster</string>
+    <string name="load_database">Load DB</string>
+    <string name="password_hint">KeePass DB password</string>
+    <string name="database_load_error">Invalid DB file/password</string>
+</resources>
